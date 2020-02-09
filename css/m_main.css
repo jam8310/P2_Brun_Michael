@@ -1,0 +1,18 @@
+@media (max-width:768px){
+  #cv .main {
+    display:block;
+  }
+  #cv .header{
+    width:100%;
+  }
+  #cv .profil h1, .profil h5{
+    display:block;
+  }
+  #cv .profil h1{
+    margin-top:0.5em;
+  }
+
+  #cv .info-header h1, .info-header h5{
+    display:none;
+  }
+}
