@@ -18,7 +18,7 @@
     margin-top:0;
   }
 
-  #cv .info-header h1, .info-header h5{
+  #cv .info-header h2, .info-header h5{
     display:none;
   }
 }
