@@ -38,10 +38,10 @@ h6{
 #cv{
   padding:0;
 }
-#cv .container{
+.container{
 padding:0;
 }
-#cv .main{
+.main{
   display:flex;
   justify-content:space-between;
 
@@ -49,40 +49,40 @@ padding:0;
 
 /* HEADER */
 
-#cv .header{
+.header{
   width:250px;
   background-color:#FBC02D;
   color:#000;
 }
-#cv .profil{
+ .profil{
   text-align: center;
   padding:25px;
 }
-#cv .profil img{
+.profil img{
   width:130px;
   height:130px;
   border-radius: 50%;
   border:1px solid #444;
   margin:0 auto;
 }
-#cv .profil h1, .profil h5{
+.profil h1, .profil h5{
   display:none;
 }
-#cv .a_propos p{
+.a_propos p{
   font-size: 14px;
   padding:25px;
 }
-#cv .contact ul{
+.contact ul{
   padding:20px 30px;
 }
-#cv .contact ul li{
+.contact ul li{
   list-style: none;
   font-size: 14px;
 }
-#cv .loisirs p{
+.loisirs p{
   text-align:center;
 }
-#cv .loisirs p .fas{
+.loisirs p .fas{
   border:1px solid #444;
   border-radius:50%;
   font-size: 25px;
